@@ -1,0 +1,19 @@
+Abby Domine <abbydomine@yahoo.com>
+	
+Mar 21 (1 day ago)
+		
+to Nikolai, Chandrashekar, me
+Hi Nick/Chandru/Ankit,
+ 
+I think I mentioned that we're removing the Support tab, since the company doesn't do any actual Support, and replacing it with a page of links to third party articles/whitepapers/etc.
+Attached is the draft list of them. I've put in the TITLE of the article in italics, the link, and then a very short blurb that I wrote to introduce the article. You could probably pull the originating sites' logos, too. There's at least 2 articles for each of the 4 Technology areas, and they're divided into either for Business Readers or for Technical Readers. I think they could be laid out in a grid showing the tech area, the content stream (business/tech) and then the actual blurb/link.
+ 
+Ideally, we'd try to pull the content & display it in a frame inside our own page, but if it looks too messy, we should just open a new window. I've seen sites that send you elsewhere, but keep a little bar at the top with something like:
+ 
+<---Click here to return to Imaginea.com
+ 
+and it re-opens our page. Can we do that here?
+ 
+First draft of the articles is attached.
+Nick do you want to do a layout for it? Thanks,
+Abby

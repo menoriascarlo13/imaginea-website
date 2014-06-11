@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+    Options -MultiViews
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_URI} !^/QA-Automation/
+    RewriteCond %{REQUEST_URI} !^/mobile-app-android/
+
+    #RewriteRule ^ index.php index.html [L]
+    RewriteRule ^ index.php  [L]
+</IfModule>

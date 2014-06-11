@@ -1,0 +1,51 @@
+Hi,
+ 
+Thanks for getting this going! Here is my first pass at comments. I will keep reviewing but wanted to get you started since there's so much. Please let me know if anything is unclear.
+I would really prefer to get this first review done tomorrow rather than have to push it to Friday--it's hard to find times that work for both Vijays--so let's see if we can get it done tonight/today (depending on your time zone!).
+I'm leaving the design-related issues like colors & fonts, etc, to Nick.
+Thanks,
+Abby
+ 
+Home:
+- The Learn More button on the main banner should link to Services Home page
+- Home page banners should use the copy I sent over earlier in the week. Does Nick need to do individual layouts? I'm attaching it again.
+- Can we fix the tags so the tab reads "Imaginea Home" instead of "landing page". All the page tags should be Imaginea + the area/tab. Also can we use a shrunken version of the logo up there as well?
+-
+ 
+Navigation:
+- Remove Solutions tab. Replace with "Resources". Layouts to follow from Nick.
+- I keep getting a weird mishmash when I pull an open tab into a new window. I'm not sure how I did it, but if you play around maybe you can figure it out.
+ 
+About:
+- No comma after the number in the US address
+- Careers? We agreed to pull over the list from the existing site?
+- Team? Same thing for team--please pull from existing site.
+- Let's also keep the "Related Brands" content from the current site.
+- Please use this paragraph as the main statement under About:
+Imaginea helps companies drive innovation through disruptive technologies that capture new opportunities in the marketplace. Whether our clients are creating these opportunities by transforming threats to existing businesses, or by proactively reinventing legacy businesses, we help them rapidly develop these opportunities into market solutions by bringing expertise in four key areas: (put the icons from the Tech section next to each tech area
+Social
+Mobile
+Cloud
+Big Data
+We can engage at any stage of the process, from consulting and ideation, through product development and implementation.
+Unlike most services organizations, we have a “product DNA” and we’ve put our money where our mouth is by starting several independent product companies ourselves.
+---
+Please also include "the wheel" graphic. I'm attaching it, but Nick can send a final version.
+General:
+ 
+Service:
+- Per earlier email, order is off & Services Home headline & description are in the body copy.
+- Services Home: at "Whether you're..' there should be a spaced out --or-- between each of the 3 bullets. Right now it's appended to the end of the first bullet.
+- Services Home: at the bottom, "The Imaginea can help", remove "The"
+    --Same area, add "a" before "range of industries"
+- Remove text that says "Customer Blurb" before each one. Replace with: An Imaginea Engagement:
+- IPM: remove bad text in "todayâ€"
+-
+ 
+Contact Us:
+- Missing the web form? I'll re-forward the email with the list of fields. Also, Imaginea has it's own email for Careers, hr@imaginea.com.
+- Let's include all the locations as a list in the black bar to the right.
+ 
+General:
+- throughout the site, in areas where we now have the Twitter feed placeholder, please put in The Wheel (attached)
+- it's hard to tell on my screen, but it keeps looking like things are changing from black or bold text to a grey text. Is that just my old eyes?

@@ -1,0 +1,50 @@
+Abby Domine <abbydomine@yahoo.com>
+	
+Mar 21 (1 day ago)
+		
+to Chandrashekar, me, Nikolai, usha
+Hi all,
+Thanks for your attention to all these little issues.
+Here's my next round of comments for updates to the Staging Server. Let me know if anything is unclear.
+Nick, Can you email the group back if you have directions for the team on any of these?
+ 
+Thanks everyone! I know it looks like a lot of stuff, but if we can hammer it out we'll be in good shape with only a few areas needing tweaks over the next week.
+ 
+Abby
+ 
+Services:
+- Nick, I think we were thinking about a replacement for the hang-glider image & putting a different image for each service area? Maybe the chalk drawing of the lightbulb for one spot, the circuits again, and the tablet guy, and whatever else you recommend? The text is going more basic, definitions of each area, so we can be pretty flexible.
+- Text for the black banner area for each practice area:
+STC: Identify the threat --> assess the opportunity
+EPS: Identify the right technology for your solution
+IPM: Prototype and test your solution
+PLS: Full scale product development and roll out
+TSE: Support, upgrades and migration
+ 
+General:
+- Legal text on the bottom, after Copyright there's a bad character
+- Can we add a link to a site map on the bottom?
+- All the bottom links appear to be broken? Also, can we put a colon ( : ) after each bottom column heading, e.g.: About: Services: Technology:
+- Please remove the "Solutions" tab--it's a Phase II area. (Nick--I like the graphic there, maybe we can find another place for it?)
+ 
+Technology:
+- Nick--I'm only seeing the "Cloud" image, reappearing. Didn't we have an image for each area?
+- Text for the banner space on the pages:
+ 
+Cloud:  What does it take to move your applications to the Cloud?
+Social: Can we help you build a collaboration platform with the power to displace your organization's email?
+Mobile: We know how to manage the demands of smaller development, for bigger impact.
+Big Data: The newest technologies creat the opportunity to show the power of information.
+ 
+For now we're using the pramati.com content:
+Cloud:
+Since Pramati’s inception, our core strength has been in software infrastructure for the Internet economy. This strength stems largely from our experience building app server technologies. Moving to the cloud was a natural extension and we were among the first to join the cloud computing bandwagon. Highly scalable, secure web architectures, and high-availability operations are core areas of specialization for our teams.
+ 
+Social:
+Social business software, collaboration, interaction models, integrations over the web, and social media are important areas where we continuously work on building expertise and teams. User experience design plays a key role, particularly with increased capabilities of modern browsers. Our teams are constantly experimenting internally on the interplay of such new technologies and user expectations.
+ 
+Mobile:
+Recognizing the growing importance of mobile devices in recent years, we have been working on specialty mobile platforms, designing for the small screen, harnessing location and device-specific capabilities, and developing mobile apps that complement web apps.
+ 
+Big Data:
+The gap between Business and IT can be effectively narrowed down by the value Big Data brings. Our focus has been on areas such as analytics that improve business performance, extraction and enrichment of data, content analysis, securing information, and business intelligence.

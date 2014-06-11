@@ -1,0 +1,135 @@
+@extends('templates.default.default')
+
+	@section('page-title')
+		Imaginea Technology
+	@stop
+	@section('body-tag')
+		technology technology_clo
+	@stop
+	@section('banner-right') 
+		<p>
+			We understand cloud infrastructure, cloud platforms, and how to build cloud applications.
+		</p>
+	@stop
+	@section('main-content-left')
+		@section('main-content-left')
+		<h1 class="orange">Cloud Technologies</h1>
+		<h2>
+			What are your biggest concerns about the cloud? Here are some problems we’ve
+solved for our customers:
+		</h2>
+		<p >
+			<dl>
+			<dt>
+				<h5>Cloud Enablement</h5>
+			</dt>
+			<dd>
+				<ul class="dotted">
+			<li>
+				Which of my applications are cloud-ready? How can I predict their
+performance in the cloud?
+			</li>
+			<li>
+				We have big security concerns with our customer data. How can I be
+sure that a cloud deployment will meet our stringent requirements?
+			</li>
+		</ul>
+			</dd>
+		</dl>	
+		<dl>
+			<dt>
+				<h5>Platform Selection</h5>
+			</dt>
+			<dd>
+				<ul class="dotted">
+			<li>
+				What are the cloud platforms and what are their trade-offs?
+			</li>
+			<li>
+				What features best match my user and application requirements?
+			</li>
+		</ul>
+			</dd>
+		</dl>	
+		<dl>
+			<dt>
+				<h5>Application Migration</h5>
+			</dt>
+			<dd>
+				<ul class="dotted">
+			<li>
+				How do we enable the continuity of current customers?
+			</li>
+			<li>
+				How do I deal with some applications already on a private cloud?
+			</li>
+		</ul>
+			</dd>
+		</dl>	
+		<dl>
+			<dt>
+				<h5>Product Development</h5>
+			</dt>
+			<dd>
+				<ul class="dotted">
+			<li>
+				What’s the right architecture for our cloud offering?
+			</li>
+			<li>
+				Can you build this new platform for us?
+			</li>
+		</ul>
+			</dd>
+		</dl>	
+				<dl>
+			<dt>
+				<h5>Services Integration</h5>
+			</dt>
+			<dd>
+				<ul class="dotted">
+			<li>
+				How do I preserve APIs into my other systems, like my CRM and ERP
+systems?
+			</li>
+			<li>
+				How do I integrate existing capabilities like Web Services?
+			</li>
+		</ul>
+		
+			</dd>
+		</dl>	
+		<div class="shaded">
+			
+			<dl>
+				<dt><h5>Areas of Cloud Expertise:</h5></dt>
+				<dd><p class="italic">HP Cloud, AWS, Cloud Foundry, Windows Azure, Java (CloudBees, Google App Engine,
+CloudFoundry), RoR (Heroku)</p></dd>
+			</dl>
+			<dl>
+				<dt><h5>Integration Technologies:</h5></dt>
+				<dd><p class="italic">Tibco, Oracle SOA, Open ESB, Mule</p></dd>
+			</dl>
+			<dl>
+				<dt><h5>Application Frameworks:</h5></dt>
+				<dd><p class="italic">Spring, Ruby on Rails (RoR), Struts, Wavemaker, Java EE 6 Web (Servlet 3/JAX-RS), Node.js</p></dd>
+			</dl>
+			<dl>
+				<dt><h5>NoSQL:</h5></dt>
+				<dd><p class="italic">MongoDB, Cassandra, Redis</p></dd>
+			</dl>
+	</div>
+		<p>
+		Let us help you jumpstart your cloud implementation, at any stage in the process.
+			</p>
+
+
+
+
+
+
+
+	@stop
+	@section('main-content-right')
+	@include('technology.sub_nav')
+		@include('about.sub_mainstrip_right')
+	@stop

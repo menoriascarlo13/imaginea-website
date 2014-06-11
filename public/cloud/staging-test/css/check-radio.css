@@ -1,0 +1,74 @@
+input[type=radio], input[type=checkbox] {
+				/* position: absolute; */
+				/* left: -9999px; */
+				float: left;
+				margin: 2px 5px;
+			}
+			.custom-checkbox, .custom-radio {
+				position: relative;
+				float: left;
+				overflow: hidden;
+				min-height: 20px;
+			}
+			.table-a .custom-checkbox{
+				float: right;
+			}
+			.custom-checkbox input, .custom-radio input {
+				position: absolute;
+				left: -9999px;
+				top: 3px;
+				margin: 0;
+				z-index: 0;
+			}
+			.custom-checkbox label, .custom-radio label {
+				cursor: pointer;
+				display: block;
+				line-height: 20px;
+				padding: 0 0 0 25px   !important;
+				position: relative;
+				z-index: 1;
+				/* margin: 0px 24px 0px 0px; */
+			}
+			.custom-checkbox label {
+				background: url('images/check-off.png') no-repeat left center transparent;
+			}
+			/* .custom-checkbox label:HOVER, */
+			.custom-checkbox label.checked {
+				background: url('images/check-on.png') no-repeat left center transparent;
+			}
+			.custom-radio label {
+				background: url('images/radio-off-a.png') no-repeat left center transparent;
+			}
+			/* .custom-radio label:HOVER, */
+			.custom-radio label.checked {
+				background: url('images/radio-on-a.png') no-repeat left center transparent;
+			}
+			
+			
+			.ul-head-b .custom-checkbox label, .ttda-1-2 .custom-checkbox label {
+				background: url('images/check-a.png') no-repeat left center transparent;
+			}
+
+			.ul-head-b label.checked, .tda-1-2 label.checked {
+				background: url('images/check-b.png') no-repeat left center transparent;
+			}
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+

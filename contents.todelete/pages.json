@@ -1,0 +1,25 @@
+{
+	"categories" : {
+		"about" : {
+			"default" : "about_us"
+		}
+
+	},
+	"pages" :	{
+		"about_us" : {
+			"title" : "About Us",
+			"parent"  : "about",
+			"content" : "about/about_us.txt"
+			
+
+	 	},
+		"contact_us" : {
+			"title" : "Contact Page",
+			"parent" : "about",
+			"content": "about/contact_us.txt",
+			"sidebar": "about/sidebar.txt"
+		}
+
+	}
+}
+

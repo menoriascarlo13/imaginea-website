@@ -1,0 +1,259 @@
+@extends('templates.default.default')
+
+	@section('page-title')
+		Imaginea Technology
+	@stop
+	@section('body-tag')
+		technology technology_clo
+	@stop
+	@section('banner-right') 
+		<p>
+			We understand cloud infrastructure, cloud platforms, and how to build cloud applications.
+		</p>
+	@stop
+	@section('main-content-left')
+		@section('main-content-left')
+
+		<div class="tabnav">
+			<ul>
+				<li id="cl-ov" class="active"> <a href="#">Overview</a> </li>
+				<li id="cl-so"> <a href="#">Solutions</a> </li>
+				<li id="cl-tr"> <a href="#">Training</a> </li>
+			</ul>			
+		</div>	
+		<div class="tabcontent">
+
+			<ul>
+				<li id="cl-ov-cont" class="active nav-cont">
+					<h2>Looking for a partner to help your organization understand/build/migrate to Cloud?</h2>
+					<ul class="subtab">
+						<li id="ov-01" class="active"><a href="#">We take you there</a></li>
+						<li id="ov-02"><a href="#">Experience Cloud</a></li>
+					</ul>
+					<div class="clr"></div>
+					<ul class="subtab-cont">
+						<li id="ov-01-cont" class="open">
+							<p> Imaginea Cloud Services helps enterprises in building secure and optimized public, private, and hybrid clouds. A rich history in building platforms, working with open standards, and a specialized engineering pool, add levels of innovation and efficiency to enterprise cloud strategy.
+</p><p>Cloud computing is making clear thunder everywhere. By making technology available as a service, cloud computing has shifted competitive dynamics to enable start-ups to take on global giants. Cloud today is a key enabler of high performance.
+</p><p>Cloud has changed the way business and IT interact. Concepts of cloud are simple; but knowing how cloud fits in with your business strategy and organizational structure can be complex.Imaginea cloud strategy aids you in answering the following key questions:
+							</p>
+							<ul class="dotted">
+								<li>How do you separate the realities of the cloud from the hype? What steps should you take to get started in the cloud? </li>
+								<li>Which of my mission-critical applications are candidates for cloud?</li>
+								<li>How concerned should you be about privacy and regulation?</li>
+								<li>How the operating model need to evolve to support a cloud strategy?</li>
+							</ul>
+						</li>	
+						<li id="ov-02-cont">
+								<h5>Try it before you commit</h5>
+								<p>Not sure how it will work? don’t worry; our hands-on POC-Lab and technical staff can always help you to simulate a cloud, setup applications on private cloud really quick.
+</p><p>Feel free to use our goodwill services designed for your help to try our Cloud Services.
+</p><p>This is the fastest and most efficient path to ‘Your Cloud.’ </p>							
+						</li>	
+					</ul>
+					
+				</li>
+				<li id="cl-so-cont" class="nav-cont">
+					<h2>How can technology support business under constant change and resource pressure? Our solutions bring flexibility and responsiveness that are needed to achieve significant business value.</h2>
+					<ul class="subtab bigger">
+						<li id="so-01" class="active"><a href="#">IAAS Solution</a></li>
+						<li id="so-02"><a href="#">Port, Migrate Applications</a></li>
+						<li id="so-03"><a href="#">Build Any-Cloud Native Applications</a></li>
+						<li id="so-04"><a href="#">Managed Services</a></li>
+					</ul>
+					<ul class="subtab-cont">
+						<li id="so-01-cont" class="open">
+							<h5>"Our in-house Cloud migration has improved our hardware efficiency by 95% and has reduced provisioning time to less than 20 minutes"</H5>
+							<p>Transform your business processes, traditional infrastructures and platforms to gain the power of automation, scalability, agility and efficiency.  Our enterprise cloud solution helps building an IT infrastructure that is flexible, scalable and cost-effective.
+</p><p>We understand these complexities; we take a holistic approach to balance the need for innovation within the existing premise.
+</p><p>Through this engagement, we plan, architect, build and integrate IaaS solutions across private, public and hybrid environments. Few points to ponder</p>
+							<ul class="dotted">
+								<li>What is the right IaaS for your organization?</li>
+								<li>How and why should you transform traditional infrastructure to a new cloud operations model?</li>
+								<li>Which technologies (Cloud OS, Automation, Orchestration, etc.) are right for your requirements?</li>
+								<li>What are the technical and functional capabilities needed for IaaS?</li>
+								<li>How do you design for a private or hybrid or multi-cloud environment?</li>
+								<li>How should you construct, manage and monitor service catalog?</li>
+								<li>What improvements are needed to your operational and business support services and tools?</li>
+
+							</ul>
+						</li>	
+						<li id="so-02-cont">
+							<h5>"After migrating our critical apps to public-private clouds we have had zero infrastructure issues"</h5>
+							<p>Along with  growth, organizations are forced to increase their application portfolios , adopt newer technologies, implement new business processes  and adhere to current regulatory requirements. The result is often a complex, rigid and inefficient IT environment with redundant and heterogeneous applications. </p><p>We partner with you for transforming software portfolio to deliver distributed, resilient, on-demand business services while reducing maintenance and compliance costs. We have proven strategy and history of executing this successfully be it in a private or public cloud without any business disruptions.
+</p><p>Application Portfolio Migration engagement addresses key questions:
+
+</p>
+								<ul class="dotted">
+									<li>Can you move your application from private cloud to public cloud? </li>
+									<li>Which applications should move to the cloud(private/public) and where should they live? </li>
+									<li>How to align the business growth and migration? </li>
+									<li>What are the shared business and technical service you can offer to your customers? </li>
+									<li>What are the shared business and technical services you can offer to internal customers? </li>
+								</ul>
+						</li>	
+						<li id="so-03-cont">
+                             <p>Businesses have followed well defined strategies and have taken bolder steps into the cloud by migrating a growing number of their most critical applications. Now it is time to look for architecting and developing cloud native applications .</p>
+
+							<ul class="dotted">
+								<li>Though most apps can be redesigned to suit cloud application architectures, the task of re-architecting some applications can be more trouble than it's worth. </li>
+								<li>The decision to migrate a legacy application to the cloud relies on one question: Does it make financial sense to commit the necessary manpower and money to reconfigure an app for the cloud? </li>
+							</ul>
+							<p>We will help you make this decision and re-architect your critical applications to be migrated to the cloud.
+</p><p>Application Development engagement addresses questions including:
+</p>
+							<ul class="dotted">
+								<li>What is different about cloud native development? </li>
+								<li>What does it mean to build four-nines applications on three-nine infrastructures? </li>
+								<li>What are the proven application frameworks for cloud workloads? </li>
+								<li>What best-of-breed solutions accelerate getting cloud applications to market? </li>
+								<li>What is different about testing and supporting cloud applications? </li>
+							</ul>
+						</li>
+						<li id="so-04-cont">
+							<p>Move production workloads to the cloud—with confidence. We manage your IT cloud assets and reduce the operational cost.
+We offer services to watch your cloud assets around the clock. Our dedicated 24x7 support team provides constant monitoring of your applications and environment. When things go wrong at 2am on a Sunday, it’s good to have a partner to fix problems and return systems to a healthy state.
+</p>
+						</li>
+					</ul>					
+				</li>
+				<li id="cl-tr-cont" class="nav-cont">
+					<p>Delivered as in-house, hands-on training for the advanced technical and management teams</p>
+					
+					<ul class="dotted">
+						<li>OpenStack Hands-on</li>
+						<li>Provisioning, Management &amp; Automation for Cloud </li>
+						<li>Application Development Tools, Methodologies for Cloud </li>
+						<li>Everything about Hybrid Clouds </li>
+					</ul>
+					<h3>Partners</h3>
+					<ul class="dotted">
+						<li>Puppetlabs</li>
+						<li>VMWare</li>
+						<li>Citrix </li>
+					</ul>
+
+				</li>
+			</ul>
+		</div>
+
+	 	<!--
+	<h2>
+		What are your biggest concerns about the cloud? Here are some problems we’ve
+	solved for our customers:
+	</h2>
+	<p >
+		<dl>
+		<dt>
+			<h5>Cloud Enablement</h5>
+		</dt>
+		<dd>
+			<ul class="dotted">
+		<li>
+			Which of my applications are cloud-ready? How can I predict their
+	performance in the cloud?
+		</li>
+		<li>
+			We have big security concerns with our customer data. How can I be
+	sure that a cloud deployment will meet our stringent requirements?
+		</li>
+	</ul>
+		</dd>
+	</dl>	
+	<dl>
+		<dt>
+			<h5>Platform Selection</h5>
+		</dt>
+		<dd>
+			<ul class="dotted">
+		<li>
+			What are the cloud platforms and what are their trade-offs?
+		</li>
+		<li>
+			What features best match my user and application requirements?
+		</li>
+	</ul>
+		</dd>
+	</dl>	
+	<dl>
+		<dt>
+			<h5>Application Migration</h5>
+		</dt>
+		<dd>
+			<ul class="dotted">
+		<li>
+			How do we enable the continuity of current customers?
+		</li>
+		<li>
+			How do I deal with some applications already on a private cloud?
+		</li>
+	</ul>
+		</dd>
+	</dl>	
+	<dl>
+		<dt>
+			<h5>Product Development</h5>
+		</dt>
+		<dd>
+			<ul class="dotted">
+		<li>
+			What’s the right architecture for our cloud offering?
+		</li>
+		<li>
+			Can you build this new platform for us?
+		</li>
+	</ul>
+		</dd>
+	</dl>	
+			<dl>
+		<dt>
+			<h5>Services Integration</h5>
+		</dt>
+		<dd>
+			<ul class="dotted">
+		<li>
+			How do I preserve APIs into my other systems, like my CRM and ERP
+	systems?
+		</li>
+		<li>
+			How do I integrate existing capabilities like Web Services?
+		</li>
+	</ul>
+	
+		</dd>
+	</dl>	
+	<div class="shaded">
+		
+		<dl>
+			<dt><h5>Areas of Cloud Expertise:</h5></dt>
+			<dd><p class="italic">HP Cloud, AWS, Cloud Foundry, Windows Azure, Java (CloudBees, Google App Engine,
+	CloudFoundry), RoR (Heroku)</p></dd>
+		</dl>
+		<dl>
+			<dt><h5>Integration Technologies:</h5></dt>
+			<dd><p class="italic">Tibco, Oracle SOA, Open ESB, Mule</p></dd>
+		</dl>
+		<dl>
+			<dt><h5>Application Frameworks:</h5></dt>
+			<dd><p class="italic">Spring, Ruby on Rails (RoR), Struts, Wavemaker, Java EE 6 Web (Servlet 3/JAX-RS), Node.js</p></dd>
+		</dl>
+		<dl>
+			<dt><h5>NoSQL:</h5></dt>
+			<dd><p class="italic">MongoDB, Cassandra, Redis</p></dd>
+		</dl>
+		</div>
+	<p>
+	Let us help you jumpstart your cloud implementation, at any stage in the process.
+		</p> -->
+
+
+
+
+
+
+
+	@stop
+	@section('main-content-right')
+	@include('technology.sub_nav')
+		@include('about.sub_mainstrip_right')
+	@stop
