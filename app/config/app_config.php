@@ -69,8 +69,8 @@ return array(
 					'email_template' => 'emails.campaigns.cloud_operation_management',
 					'email_subject'  => 'Imaginea Online Inquiry - Cloud Operations Management',
 					'emails' => array(
-							/*'Arun'  => 'arun@imaginea.com'*/
-							'Aneesh ' => 'aneesh.e@imaginea.com'
+							'Arun'  => 'arun@imaginea.com'
+							/*'Aneesh ' => 'aneesh.e@imaginea.com'*/
 						),
 					'success_message' => 'Thank you for contacting us!'
 				)
