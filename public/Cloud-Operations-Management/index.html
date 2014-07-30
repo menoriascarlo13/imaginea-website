@@ -188,7 +188,7 @@
 
                 <div class="about-content">
                   <div class="col-md-8 col-sm-offset-3">
-                <form id="testform">
+                <form id="testform" action="/campaigns" method="post">
                 <input type="hidden" name="form_id" value="DX-2676" />
                 <div class="row">
                   <div class="col-md-6">
@@ -203,7 +203,7 @@
                   <div class="col-md-10">
                      <div class="pull-left">Purpose &nbsp;&nbsp;&nbsp;</div>
 
-                     <input type="radio" name="p" id="13" value="t" required/>
+                     <input type="radio" name="p" id="13" value="t" required checked />
                       <input type="radio" name="p" id="14"/ value="r" required>
                       <input type="radio" name="p" id="15"/ value="r" required>
                       <label for="13"> More info</label>
@@ -251,7 +251,7 @@
               <p>
                 Understand the hows and whys before you embark with your cloud initiatives
               </p>
-              <a href="business.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
+              <a href="http://imaginea.com/cloud/business.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
             </div>
             <img src="css/images/plan-icon.png">
           </div>
@@ -264,7 +264,7 @@
               <p>
                 Build your technology roadmap as you embark into your cloud initiatives
               </p>
-              <a href="technology.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
+              <a href="http://imaginea.com/cloud/technology.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
             </div>            
             <img src="css/images/design-icon.png">
           </div>
@@ -277,7 +277,7 @@
               <p>
                 Secure your data and application at each phase
               </p>
-              <a href="security.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
+              <a href="http://imaginea.com/cloud/security.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
             </div>
             <img src="css/images/secure-icon.png">
           </div>
@@ -290,7 +290,7 @@
               <p>
                 Migrating, Testing and Implementing your Cloud XaaS
               </p>
-              <a href="implementation.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
+              <a href="http://imaginea.com/cloud/implementation.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
             </div>
             <img src="css/images/build-icon.png">
           </div>
@@ -303,7 +303,7 @@
               <p>
                 End-to-end Operations Management of your cloud deployment
               </p>
-              <a href="operations.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
+              <a href="http://imaginea.com/cloud/operations.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
             </div>
             <img src="css/images/manage-icon.png">
           </div>
@@ -317,7 +317,7 @@
               <p>
                 Build your technology roadmap as you embark into your cloud initiatives
               </p>
-              <a href="technology.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
+              <a href="http://imaginea.com/cloud/technology.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
             </div>            
             <img src="css/images/design-icon.png">
           </div>
@@ -328,7 +328,7 @@
               <p>
                 Secure your data and application at each phase
               </p>
-              <a href="security.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
+              <a href="http://imaginea.com/cloud/security.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
             </div>
             <img src="css/images/secure-icon.png">
           </div>
@@ -339,7 +339,7 @@
               <p>
                 Migrating, Testing and Implementing your Cloud XaaS
               </p>
-              <a href="implementation.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
+              <a href="http://imaginea.com/cloud/implementation.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
             </div>
             <img src="css/images/build-icon.png">
           </div>
@@ -350,7 +350,7 @@
               <p>
                 End-to-end Operations Management of your cloud deployment
               </p>
-              <a href="operations.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
+              <a href="http://imaginea.com/cloud/operations.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
             </div>
             <img src="css/images/manage-icon.png">
           </div>
@@ -361,7 +361,7 @@
               <p>
                 Understand the hows and whys before you embark with your cloud initiatives
               </p>
-              <a href="business.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
+              <a href="http://imaginea.com/cloud/business.html" class="btn-c">Read More <span class="glyphicon glyphicon-arrow-right"></span></a>
             </div>
             <img src="css/images/plan-icon.png">
           </div>
@@ -962,7 +962,33 @@
 ga('create', 'UA-48257765-1', 'imaginea.com');
 ga('send', 'pageview');
 
+
+$('#testform').submit(function(){
+
+
+
+});
+
 $('#target').click(function(){
+
+
+checked = false;
+
+$('input').each(function(){ 
+   if( $(this).val() == '' ) {
+   	console.log('sss')
+    checked = true 
+	}   
+});
+
+if( checked){
+	 	console.log('aaa');
+      alert('Please fill all the fields');
+
+  }
+else {
+ 	console.log('bbb')
+
 
 	$.post('/campaigns', $('#testform').serializeArray(), function(result) {
 
@@ -971,7 +997,7 @@ $('#target').click(function(){
 		
 	  
 	});
-
+}
 	return false;
 
 });
