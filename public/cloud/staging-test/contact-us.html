@@ -84,7 +84,7 @@
           
 
         </div>
-                <section class="sn-expand st-lifecycle-tab">
+        <section class="sn-expand st-lifecycle-tab">
           <div class="container">
             <div class="row">
               <h1 class="lifecycle-link col-sm-12">  <a href="lifecycle.html">Overview</a> </h1>
@@ -134,31 +134,33 @@
 
             <div class="row">
               <div class="col-md-8">
+                <form id="testform">
                 <div class="row">
                   <div class="col-md-6">
-                    <input class="input-cu" type="text" placeholder="Name*" />
-                    <input class="input-cu" type="text" placeholder="Company*" />
+                    <input class="input-cu" type="text" name="field-name" placeholder="Name*" />
+                    <input class="input-cu" type="text" name="field-company" placeholder="Company*" />
                   </div>
                   <div class="col-md-6">
-                    <input class="input-cu" type="text" placeholder="Last Name*" />
+                    <input class="input-cu" type="text" name="field-last-name" placeholder="Last Name*" />
                     
-                    <input class="input-cu" type="text" placeholder="Phone Number*" />
+                    <input class="input-cu" type="text" name="field-phone-number" placeholder="Phone Number*" />
                   </div>
-                   <div class="col-md-6">
-                    
-                    <input class="input-cu" type="text" placeholder="Email*" />
+                  <div class="col-md-6">
+
+                    <input class="input-cu" type="text" name="field-email" placeholder="Email*" />
                   </div>
                 </div>
                 <div class="row">
                   <div class="col-md-12">
-                    <textarea class="input-cu" placeholder="Message*"></textarea>
-                    <a class="btn-h" href="#">
-                      SEND MESSAGE
+                    <textarea class="input-cu" name="field-message" placeholder="Message*"></textarea>
+                    <a class="btn-h" href="#" id="target">
+                      SEND MESSAGE 
                       <span class="glyphicon glyphicon-arrow-right"></span>
                     </a>
+                    <label class="msg-confirm">Your message has been sent</label>
                   </div>
                 </div>
-
+              </form>
               </div>
               <div class="col-md-3 col-md-offset-1 ">
                 <div class="about-contact">
@@ -291,6 +293,16 @@
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
 <script src="js/custom.js"></script>
-
+<script>
+$( "#target" ).click(function(e) {
+  e.preventDefault();
+   alert( "success" );
+ $('.msg-confirm').css('display','inline-block');
+    $.post( "test.php", $( "#testform" ).serialize(),function() {
+      alert( "success" );
+      $('.msg-confirm').css('display','none');
+    } );
+});
+</script>
 </body>
 </html>
