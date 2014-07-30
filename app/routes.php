@@ -18,7 +18,8 @@ Route::get('/', function()
 });
 
 Route::post('send_mail', 'HomeController@send_mail');
-Route::post('send_mail1', 'HomeController@send_mail1');
+
+Route::post('campaigns', 'CampaignController@index');
 
 Route::get('{cat?}/{page?}', 'HomeController@index');
 

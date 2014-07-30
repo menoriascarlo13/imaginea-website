@@ -60,24 +60,7 @@ class HomeController extends BaseController {
         );
 	}
 
-	public function send_mail1()
-	{
 
-		$input =  Input::all();
-		$data = array('data' => $input);
-		
-		Mail::send('emails.valcampaign', $data, function($m)
-		{
-			$m->to('sales@imaginea.com', 'Imaginea Sales')->subject('Cloud Services Request');	    
-
-		});
-		
-		return Response::json([
-            'error' => false,
-            'message' => 'Thank you for contacting us!'],
-            200
-        );
-	}
 
 
 /*	public function test()

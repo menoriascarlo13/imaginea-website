@@ -189,6 +189,7 @@
                 <div class="about-content">
                   <div class="col-md-8 col-sm-offset-3">
                 <form id="testform">
+                <input type="hidden" name="form_id" value="DX-2676" />
                 <div class="row">
                   <div class="col-md-6">
                     <input class="input-cu" type="text" name="field-name" placeholder="Name*">
@@ -960,6 +961,19 @@
 ga('create', 'UA-48257765-1', 'imaginea.com');
 ga('send', 'pageview');
 
+$('#target').click(function(){
+
+	$.post('/campaigns', $('#testform').serializeArray(), function(result) {
+
+		if( !result.error )
+			$('.msg-confirm').css('display', 'block');
+		
+	  
+	});
+
+	return false;
+
+});
 </script>
 </body>
 </html>
