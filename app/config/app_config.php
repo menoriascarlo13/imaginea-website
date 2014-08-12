@@ -55,8 +55,7 @@ return array(
 	'emails' => array(
 
 			'Info'		=>	'info@imaginea.com',
-			'Abby'      =>	'abbydomine@yahoo.com',
-            'Chandru'   =>	'chandru@imaginea.com'
+                        'Chandru'   =>	'chandru@imaginea.com'
 			
 		),
 
