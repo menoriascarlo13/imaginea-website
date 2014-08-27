@@ -417,7 +417,7 @@ a.lc-manage h2{
 	max-width: 100%;
 }
 .mpi-green .campaign-text{
-	margin-bottom: 70px;
+	margin-bottom: 110px;
 }
 .mpi-blue{
 	background: #337cc0 !important;
@@ -499,7 +499,7 @@ a.lc-manage h2{
 	font-weight:700;
 	border-bottom: 1px solid rgba(255,255,255,0.2);
 	padding-bottom: 20px;
-	margin-bottom: 20px;
+	margin:2px 0 20px
 }
 
 .bottom-st{
@@ -884,7 +884,7 @@ p.c-full{
 	font-weight:700;
 	line-height: 54px;
 	letter-spacing: -1.9px;
-	margin-top: 100px;
+	margin-top: 66px;
 	font-family: lato;
 	font-weight: 300;
 	text-transform: uppercase;
@@ -894,7 +894,7 @@ p.c-full{
 	font-size:22px;
 	font-family: 'lato';
 	font-weight:700;
-	line-height: 54px;
+	margin: 0px 0px 16px 0px;
 }
 .inner-page-content{
 	
@@ -1506,22 +1506,25 @@ margin-right: 10px;
 	text-align: right;
 }
 .dot-big i{
-	width: 112px;
+	width: 100px;
 	height: 112px;
 	float: left;
 	display: inline-block;
 }
 .dot-big i.dotb-a{
-	background: url('images/icon-a.png') no-repeat;
+	background: url('images/link-a.png') no-repeat;
 }
 .dot-big i.dotb-b{
-	background: url('images/icon-b.png') no-repeat;
+	background: url('images/link-b.png') no-repeat;
 }
 .dot-big i.dotb-c{
-	background: url('images/icon-c.png') no-repeat;
+	background: url('images/link-c.png') no-repeat;
+}
+.dot-big i.dotb-d{
+	background: url('images/link-d.png') no-repeat;
 }
 .dot-big div{
-	margin-left: 150px;
+	/*margin-left: 114px;*/
 }
 .dot-big section{
 	margin-bottom: 70px;
@@ -1646,6 +1649,29 @@ background: #ff8643 !important;
 }
 .clearfix{
 	clear: both;
+}
+
+.cc-block-f .btn-b {
+    margin-bottom: 10px;
+}
+.btn-a.orange, .btn-b.orange {
+    background-color: #ff9053;
+    border: 1px solid #f98100;
+    box-shadow: 0 1px #ffb58c inset;
+}
+.btn-b {
+    font-size: 18px;
+    padding: 8px 47px;
+}
+.btn-a, .btn-b {
+    border-radius: 4px;
+    color: #fff !important;
+    cursor: pointer;
+    text-shadow: 0 -1px #cf9271;
+    text-transform: uppercase;
+}
+.btn-b:hover{
+	background: #ff8643;
 }
 /***************************************************************************************************mediaqueries begin *******************************************/
 /***************************************************************************************************mediaqueries begin *******************************************/
