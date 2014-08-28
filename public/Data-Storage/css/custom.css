@@ -413,7 +413,7 @@ a.lc-manage h2{
 	background: #294251;
 }
 .mpi-green .circle-campaign-pic{
-	margin-top: 60px;
+	margin-top: 85px;
 	max-width: 100%;
 }
 .mpi-green .campaign-text{
@@ -811,6 +811,7 @@ p.c-full{
 .main-panel-inner{	
 	background: #de7c5a;
 	position: relative;
+	height: 444px;
 }
 .breadcrumb{
 	background: transparent;
@@ -884,7 +885,7 @@ p.c-full{
 	font-weight:700;
 	line-height: 54px;
 	letter-spacing: -1.9px;
-	margin-top: 66px;
+	margin-top: 90px;
 	font-family: lato;
 	font-weight: 300;
 	text-transform: uppercase;
@@ -894,7 +895,7 @@ p.c-full{
 	font-size:22px;
 	font-family: 'lato';
 	font-weight:700;
-	margin: 0px 0px 16px 0px;
+	line-height: 54px;
 }
 .inner-page-content{
 	
