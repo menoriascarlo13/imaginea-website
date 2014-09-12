@@ -118,7 +118,7 @@ understandable, and at least minimally secured.</p>
 
 API Management tool even before you are sure about your APIs.</p>
 <img src="images/wavemaker/logo-gateway-lite.png" />
-<p class="italics flt-left" style="margin:10px 0px 0px 40px;padding-left:40px; border-left:1px solid #ccc; font-style:italic;">WM Gateway Lite is a free to use light weight API management solution.</p>
+<p style="font-style:italic;">WM Gateway Lite is a free to use light weight API management solution.</p>
 <h5>Fast-track web and mobile app development</h5>
 <p>You may have APIs but creating API driven smart web & mobile applications is time consuming
 
