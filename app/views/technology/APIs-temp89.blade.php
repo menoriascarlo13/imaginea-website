@@ -57,7 +57,7 @@ their business.
 design features mark good APIs. Strong API architecture and design is critical to ensure the right 
 
 implementation of these key features.</p>
-<img src="/images/wavemaker/api-design.png" />
+<img style="margin:0 auto;margin-bottom:40px;display:block" src="/images/api-design.png" />
 
 <p>With good understanding of the enterprises’ API strategy, use of best practices, sufficient integration 
 
@@ -152,7 +152,7 @@ the large population of user developers, as well as professional developers, to 
 ensured high quality deliverables and very happy customers.</p>
 <p>Want to be happy too? Discuss your API needs with our experts.</p>
 
-<img style="max-width:100%;"src="/images/api-lifecycle.png" />
+<img style="margin:0 auto; display:block;" src="/images/api-lifecycle.png" />
 
 
 
