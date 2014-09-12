@@ -13,7 +13,10 @@ technology technology_soc
 @stop
 @section('main-content-left') 
 
-<h5>Why APIs for Enterprise</h5>
+<h1 class="orange">APIs for Enterprise</h1>
+<h2> Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+ doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis
+  et quasi architecto beatae </h2>
 <p>The thumping success of APIs in the consumer space has pushed APIs to be part of emerging platforms. 
 
 After seeing huge success of API-based development and subsequent growth in social media and 
@@ -54,7 +57,7 @@ their business.
 design features mark good APIs. Strong API architecture and design is critical to ensure the right 
 
 implementation of these key features.</p>
-<img src="images/wavemaker/api-design.png" />
+<img src="/images/wavemaker/api-design.png" />
 
 <p>With good understanding of the enterprises’ API strategy, use of best practices, sufficient integration 
 
@@ -103,7 +106,7 @@ potential of APIs. WaveMaker Gateway helps in handling all the general concerns 
 
 APIs. Imaginea is a preferred professional services provider for WaveMaker Gateway.</p>
 
-<img src="images/wavemaker/logo-gateway.png" />
+<img src="/images/wavemaker/logo-gateway.png" />
 <p>Tools can certainly manage APIs but only to the extent it is configured. Enterprises most certainly need
 
 experts to evaluate and configure the best tool for their purpose. We also offer services on other 
@@ -117,7 +120,7 @@ understandable, and at least minimally secured.</p>
 <p>Simply get started with WaveMaker Gateway Lite. Postpone your worries about procuring a commercial 
 
 API Management tool even before you are sure about your APIs.</p>
-<img src="images/wavemaker/logo-gateway-lite.png" />
+<img src="/images/wavemaker/logo-gateway-lite.png" />
 <p style="font-style:italic;">WM Gateway Lite is a free to use light weight API management solution.</p>
 <h5>Fast-track web and mobile app development</h5>
 <p>You may have APIs but creating API driven smart web & mobile applications is time consuming
@@ -132,7 +135,7 @@ time consuming or difficult. The Studio is a visual RAD tool that offers you way
 components, connect to web services, create database schemas and much more-- without writing any 
 
 code.</p>
-<img src="images/wavemaker/logo-studio.png" />
+<img src="/images/wavemaker/logo-studio.png" />
 <h5>Our Experience with APIs</h5>
 <p>Imaginea has been serving as the engineering arm for the WaveMaker product suite. Building a 
 
@@ -149,7 +152,7 @@ the large population of user developers, as well as professional developers, to 
 ensured high quality deliverables and very happy customers.</p>
 <p>Want to be happy too? Discuss your API needs with our experts.</p>
 
-<img style="max-width:100%;"src="images/api-lifecycle.png" />
+<img style="max-width:100%;"src="/images/api-lifecycle.png" />
 
 
 
