@@ -73,6 +73,6 @@ ensured high quality deliverables and very happy customers.</p>
 
 @stop
 @section('main-content-right')
-@include('technology.sub_nav')
+@include('services.sub_nav')
 @include('about.sub_mainstrip_right')
 @stop

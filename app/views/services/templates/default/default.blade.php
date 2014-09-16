@@ -49,7 +49,7 @@
 					<a href="/technology/Big-Data">Big Data</a>
 				</li>
 				<li class="sn-API">
-					<a href="/technology/API">Big Data</a>
+					<a href="/technology/API">API</a>
 				</li>
 
 			</ul>
