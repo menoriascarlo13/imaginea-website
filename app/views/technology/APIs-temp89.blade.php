@@ -13,11 +13,10 @@ technology technology_soc
 @stop
 @section('main-content-left') 
 
+				 
 <h1 class="orange">APIs for Enterprise</h1>
-<h2> Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
- doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis
-  et quasi architecto beatae </h2>
-<p>The thumping success of APIs in the consumer space has pushed APIs to be part of emerging platforms. 
+<h2> The thumping success of APIs in the consumer space has pushed APIs to be part of emerging platforms for the enterprise. </h2>
+<p> 
 
 After seeing huge success of API-based development and subsequent growth in social media and 
 
@@ -57,13 +56,13 @@ their business.
 design features mark good APIs. Strong API architecture and design is critical to ensure the right 
 
 implementation of these key features.</p>
-<img style="margin:0 auto;margin-bottom:40px;display:block" src="/images/api-design.png" />
+<img src="/images/api-design.png" style="margin:0 auto;margin-bottom:40px;display:block">
 
 <p>With good understanding of the enterprises’ API strategy, use of best practices, sufficient integration 
 
 expertise, your business can serve a as a good base for creating a robust API design.</p>
 
-<h5>Why engineering is critical for APIs</h5>
+<h5>Why engineering is critical for APIs?</h5>
 <p>Often asked: if APIs are about interface and integration, is engineering critical for APIs? Absolutely!
 
 Strong engineering and development minds are needed for:</p>
@@ -74,7 +73,7 @@ Strong engineering and development minds are needed for:</p>
 		<ul class="dotted">
 <li>Creating a sustainable low level design for APIs that can reduce the actual development time</li>
 
-<li>Evaluating and choosing a perfect implementation technology stack for APIs</li>
+<li>Evaluating and choosing a perfect implementation technology stack</li>
 
 <li>Optimizing and performing APIs</li>
 
@@ -87,10 +86,10 @@ Strong engineering and development minds are needed for:</p>
 
 (DX).</p>
 
-<h5>Do I really need to manage my APIs? Is Management tool a must?</h5>
-<p>Well, yes. Some level of management is required to avoid chaos. The relevance of APIs to core business 
+<h5>Do APIs need management?</h5>
+<p>Some level of management is required to avoid chaos. The relevance of APIs to core business 
 
-and existing IT landscape largely drives the those management needs. For instance, new APIs that 
+and existing IT landscape largely drives management needs. For instance, new APIs that 
 
 need security need authentication and authorization logic, which might already exist in the enterprise 
 
@@ -102,58 +101,16 @@ application, these are wide concerns and better solved in a standard way.</p>
 
 <p>Imaginea is partnering best of breed API products in the market so that its customers can realize the full 
 
-potential of APIs. WaveMaker Gateway helps in handling all the general concerns that comes along with 
+potential of new architectures. </p>
+    <div class="shaded" style="overflow:auto">
 
-APIs. Imaginea is a preferred professional services provider for WaveMaker Gateway.</p>
+<a href="http://imaginea.com/technology/Wavemaker" style="margin:5px 0px 0px 15px" class="flt-left"><img src="/images/wavemaker/logo.png"></a><p style="margin:10px 0px 0px 20px" class="flt-left">We partner with Wavemaker which helps in handling all the general concerns that comes along with APIs.<a style="color: #ff772d;cursor: pointer;display: block;font-size: 15px;font-style:italic;" href="http://imaginea.com/technology/Wavemaker"> Read More </a> </p>
+    
+  </div>
+  <p>Want to be happy too? Discuss your API needs with our experts.</p>
 
-<img src="/images/wavemaker/logo-gateway.png" />
-<p>Tools can certainly manage APIs but only to the extent it is configured. Enterprises most certainly need
-
-experts to evaluate and configure the best tool for their purpose. We also offer services on other 
-
-commercial API Management Tools like Layer7, 3Scale, Mulesoft etc.</p>
-<p>A complete API Management product can be very useful but is not mandatory to venture into APIs. 
-
-Nevertheless, even the simplest API implementation will need ways to make the APIs discoverable, 
-
-understandable, and at least minimally secured.</p>
-<p>Simply get started with WaveMaker Gateway Lite. Postpone your worries about procuring a commercial 
-
-API Management tool even before you are sure about your APIs.</p>
-<img src="/images/wavemaker/logo-gateway-lite.png" />
-<p style="font-style:italic;">WM Gateway Lite is a free to use light weight API management solution.</p>
-<h5>Fast-track web and mobile app development</h5>
-<p>You may have APIs but creating API driven smart web & mobile applications is time consuming
-
-and difficult without the right tools.</p>
-<p>Many enterprises are in a state that is unable to realize the investments made in APIs. Using a tool
-
-like Wavemaker Studio, creating API driven applications to be served on web and mobile is no longer 
-
-time consuming or difficult. The Studio is a visual RAD tool that offers you ways to drag-and-drop UI 
-
-components, connect to web services, create database schemas and much more-- without writing any 
-
-code.</p>
-<img src="/images/wavemaker/logo-studio.png" />
-<h5>Our Experience with APIs</h5>
-<p>Imaginea has been serving as the engineering arm for the WaveMaker product suite. Building a 
-
-commercial grade API Management Gateway and other related products has given us immense insight 
-
-in to different aspect of API building, publishing and consuming.</p>
-<p>WaveMaker, Inc. provides App Enablement Suite (AES), an end-to-end solution for publishing, managing 
-
-APIs and uniquely promoting API consumption. WaveMaker improves API consumption by empowering 
-
-the large population of user developers, as well as professional developers, to create API apps.</p>
-<p>WaveMaker is a portfolio company of Pramati Technologies. The product DNA in Imaginea has always
-
-ensured high quality deliverables and very happy customers.</p>
-<p>Want to be happy too? Discuss your API needs with our experts.</p>
-
-<img style="margin:0 auto; display:block;" src="/images/api-lifecycle.png" />
-
+<img src="/images/api-lifecycle.png" style="margin:0 auto; display:block;">
+  
 
 
 
