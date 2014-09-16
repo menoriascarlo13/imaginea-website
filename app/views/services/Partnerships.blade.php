@@ -14,17 +14,20 @@ services services_eps
 @section('main-content-left') 
 				 
 
-<h1 class="orange">WaveMaker</h1>
-<h2> Imaginea is partnering best of breed API products in the market so that its customers can realize the full 
-
-potential of new architectures. </h2>
+				 
+<h1 class="orange">Partnerships</h1>
+<h2>Imaginea is partnering with best of breed technology providers in the market
+ so that its customers can realize the full potential of new API architectures. 
+ Tools can certainly manage APIs but only to the extent it is configured. Enterprises most certainly need experts to evaluate and configure the best tool for their purpose.</h2>
+<img style="margin:0px 50px 0px 0px" src="/images/wavemaker/logo-gateway.png">
+  <img src="/images/wavemaker/logo-gateway-lite.png">
 
 
   <p>WaveMaker Gateway helps in handling all the general concerns that comes along with 
 
 APIs. Imaginea is a preferred professional services provider for WaveMaker Gateway.</p>
 
-<img src="/images/wavemaker/logo-gateway.png">
+
 <p>Tools can certainly manage APIs but only to the extent it is configured. Enterprises most certainly need
 
 experts to evaluate and configure the best tool for their purpose. We also offer services on other 
@@ -38,8 +41,7 @@ understandable, and at least minimally secured.</p>
 <p>Simply get started with WaveMaker Gateway Lite. Postpone your worries about procuring a commercial 
 
 API Management tool even before you are sure about your APIs.</p>
-<img src="/images/wavemaker/logo-gateway-lite.png">
-<p style="font-style:italic;">WM Gateway Lite is a free to use light weight API management solution.</p>
+
 <h5>Fast-track web and mobile app development</h5>
 <p>You may have APIs but creating API driven smart web &amp; mobile applications is time consuming
 
@@ -68,7 +70,6 @@ the large population of user developers, as well as professional developers, to 
 <p>WaveMaker is a portfolio company of Pramati Technologies. The product DNA in Imaginea has always
 
 ensured high quality deliverables and very happy customers.</p>
-
 
 @stop
 @section('main-content-right')

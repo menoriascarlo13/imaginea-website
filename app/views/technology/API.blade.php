@@ -13,18 +13,19 @@ services services_eps
 @stop
 @section('main-content-left') 
 
+
 				 
 <h1 class="orange">APIs for Enterprise</h1>
 <h2> The thumping success of APIs in the consumer space has pushed APIs to be part of emerging platforms for the enterprise. </h2>
 <p> 
 
-After seeing huge success of API-based development and subsequent growth in social media and 
+After seeing huge success in API-based development and subsequent growth in social media and 
 
-consumer space, in general, enterprises are now keen to replicate that in their business.. The new API 
+consumer space, in general, enterprises are now keen to replicate that in their business. The new API 
 
-architecture is transforming the way business is done. For, APIs are not just an aid to achieve their 
+architecture is transforming the way business is done. APIs are not just an aid to achieve their 
 
-business goals, but are core to the business strategy. APIs are opening up newer business channels 
+business goals, they are also core to the business strategy. APIs are opening up newer business channels 
 
 and speeding up partner
 
@@ -32,7 +33,7 @@ business change.</p>
 
 <p>Enterprises are compelled to create newer applications that appeal to different markets and
 
-customer segments, and make them accessible to a variety of user-agents. Visual representation and 
+customer segments and make them accessible to a variety of user-agents. Visual representation and 
 
 communication of data and information Cloud applications need a standard way to circle back data and 
 
@@ -48,6 +49,7 @@ Enterprises need a holistic approach to include APIs in their business strategy;
 
 their business.
 </p>
+
 
 
 <h5>Building good APIs</h5>
@@ -85,8 +87,9 @@ Strong engineering and development minds are needed for:</p>
 <p>Only good engineering can ensure a good developer experience. APIs are all about Developer Experience 
 
 (DX).</p>
-
+  <img src="/images/api-lifecycle.png" style="margin:0 auto; display:block;">
 <h5>Do APIs need management?</h5>
+
 <p>Some level of management is required to avoid chaos. The relevance of APIs to core business 
 
 and existing IT landscape largely drives management needs. For instance, new APIs that 
@@ -104,13 +107,10 @@ application, these are wide concerns and better solved in a standard way.</p>
 potential of new architectures. </p>
     <div class="shaded" style="overflow:auto">
 
-<a href="http://imaginea.com/technology/Wavemaker" style="margin:5px 0px 0px 15px" class="flt-left"><img src="/images/wavemaker/logo.png"></a><p style="margin:10px 0px 0px 20px" class="flt-left">We partner with Wavemaker which helps in handling all the general concerns that comes along with APIs.<a style="color: #ff772d;cursor: pointer;display: block;font-size: 15px;font-style:italic;" href="http://imaginea.com/technology/Wavemaker"> Read More </a> </p>
+<a href="/services/Partnerships" style="margin:5px 0px 0px 15px" class="flt-left"><img src="/images/wavemaker/logo.png"></a><p style="margin:10px 0px 0px 20px" class="flt-left">We partner with Wavemaker which helps in handling all the general concerns that comes along with APIs.<a style="color: #ff772d;cursor: pointer;display: block;font-size: 15px;font-style:italic;" href="/services/Partnerships"> Read More </a> </p>
     
   </div>
-  <p>Want to be happy too? Discuss your API needs with our experts.</p>
 
-<img src="/images/api-lifecycle.png" style="margin:0 auto; display:block;">
-  
 
 
 

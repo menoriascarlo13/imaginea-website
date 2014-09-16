@@ -104,7 +104,7 @@ body>section,.divider-gap{
 }
 .tech-list{
 	position: relative;
-    top: -15px;
+    top: -25px;
 }
 .tech-list li {
 	border-bottom: 1px solid #262423;
@@ -129,16 +129,19 @@ body>section,.divider-gap{
 	color: #fff;
 }
 .tech-list li.tl-cloud a{
-	background: url('../images/tech-sprite.png') no-repeat 10px -137px;
+	background: url('../images/tech-sprite-2.png') no-repeat 10px -137px;
 }
 .tech-list li.tl-mobile a{
-	background: url('../images/tech-sprite.png') no-repeat 8px -433px;
+	background: url('../images/tech-sprite-2.png') no-repeat 8px -433px;
 }
 .tech-list li.tl-bigdata a{
-	background: url('../images/tech-sprite.png') no-repeat 10px -283px;
+	background: url('../images/tech-sprite-2.png') no-repeat 10px -283px;
 }
 .tech-list li.tl-social a{
-	background: url('../images/tech-sprite.png') no-repeat 10px 15px;
+	background: url('../images/tech-sprite-2.png') no-repeat 10px 15px;
+}
+.tech-list li.tl-api a{
+	background: url('../images/tech-sprite-2.png') no-repeat 10px -658px;
 }
 .tech-list li.tl-cloud.selected a,.tech-list li.tl-cloud:hover a{
 	background-position:10px -212px;
@@ -154,6 +157,10 @@ body>section,.divider-gap{
 }
 .tech-list li.tl-social.selected a,.tech-list li.tl-social:hover a{
 	background-position: 10px -60px;
+	color: #fff;
+}
+.tech-list li.tl-api.selected a,.tech-list li.tl-api:hover a{
+	background-position: 10px -583px;
 	color: #fff;
 }
 .logo-img {
@@ -245,16 +252,19 @@ body>section,.divider-gap{
 	color: #ff9053;
 }
 ul.sub-nav li.sn-cloud a{
-	background: url('../images/tech-sprite.png') no-repeat 10px -211px;
+	background: url('../images/tech-sprite-2.png') no-repeat 10px -211px;
 }
 ul.sub-nav li.sn-mobile a{
-	background: url('../images/tech-sprite.png') no-repeat 8px -509px;
+	background: url('../images/tech-sprite-2.png') no-repeat 8px -509px;
 }
 ul.sub-nav li.sn-bigdata a{
-	background: url('../images/tech-sprite.png') no-repeat 10px -358px;
+	background: url('../images/tech-sprite-2.png') no-repeat 10px -358px;
 }
 ul.sub-nav li.sn-social a{
-	background: url('../images/tech-sprite.png') no-repeat 10px -59px;
+	background: url('../images/tech-sprite-2.png') no-repeat 10px -59px;
+}
+ul.sub-nav li.sn-API a{
+	background: url('../images/tech-sprite-2.png') no-repeat 10px -582px;
 }
 .top-header ul.sub-nav-technology li a {
     padding: 25px 10px 25px 40px;
