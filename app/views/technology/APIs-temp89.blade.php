@@ -4,7 +4,7 @@
 Imaginea Technology
 @stop
 @section('body-tag')
-technology technology_soc
+services services_eps 
 @stop
 @section('banner-right')
 <p>
