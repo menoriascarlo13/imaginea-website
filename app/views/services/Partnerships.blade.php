@@ -16,60 +16,80 @@ services services_eps
 
 				 
 <h1 class="orange">Partnerships</h1>
-<h2>Imaginea is partnering with best of breed technology providers in the market
- so that its customers can realize the full potential of new API architectures. 
- Tools can certainly manage APIs but only to the extent it is configured. Enterprises most certainly need experts to evaluate and configure the best tool for their purpose.</h2>
+<h2>Imaginea is partnering with best-of-breed technology providers 
+
+in the market so its customers can realize the full potential of 
+
+new API architectures. Tools can manage APIs, but only to the 
+
+extent dictated by their configurations. Enterprises definitely 
+
+need experts to evaluate and configure a tool that suits their 
+
+purpose best.</h2>
 <img style="margin:0px 50px 0px 0px" src="/images/wavemaker/logo-gateway.png">
   <img src="/images/wavemaker/logo-gateway-lite.png">
 
+<p>WaveMaker Gateway helps handle all the general concerns that come along with
 
-  <p>WaveMaker Gateway helps in handling all the general concerns that comes along with 
+APIs. And Imaginea is the preferred professional service provider for WaveMaker 
 
-APIs. Imaginea is a preferred professional services provider for WaveMaker Gateway.</p>
+Gateway.</p>
+<p>Tools can manage APIs, but only to the extent that their configurations allow. So 
 
+enterprises do need experts to evaluate and configure a tool that best matches 
 
-<p>Tools can certainly manage APIs but only to the extent it is configured. Enterprises most certainly need
+their requirements. Imaginea also offers services on other commercial API 
 
-experts to evaluate and configure the best tool for their purpose. We also offer services on other 
+Management tools like Layer7, 3Scale, Mulesoft etc.</p>
+<p>A complete API Management product can be very useful, but it is not
 
-commercial API Management Tools like Layer7, 3Scale, Mulesoft etc.</p>
-<p>A complete API Management product can be very useful but is not mandatory to venture into APIs. 
+mandatory to get one to venture into APIs. Nevertheless, even the simplest 
 
-Nevertheless, even the simplest API implementation will need ways to make the APIs discoverable, 
+API implementation will need some way to make the API discoverable, 
 
-understandable, and at least minimally secured.</p>
-<p>Simply get started with WaveMaker Gateway Lite. Postpone your worries about procuring a commercial 
+understandable, and at least minimally secure.</p>
+<p>Get started with WaveMaker Gateway Lite, and you won’t have to worry about
 
-API Management tool even before you are sure about your APIs.</p>
+getting a commercial API Management tool even before you are sure about your 
+
+APIs.</p>
+
 
 <h5>Fast-track web and mobile app development</h5>
-<p>You may have APIs but creating API driven smart web &amp; mobile applications is time consuming
+<p>You may already have APIs, but creating smart API-driven web & mobile 
 
-and difficult without the right tools.</p>
-<p>Many enterprises are in a state that is unable to realize the investments made in APIs. Using a tool
+applications is time consuming and difficult without the right tools. Because of 
 
-like Wavemaker Studio, creating API driven applications to be served on web and mobile is no longer 
+this, many enterprises are unable to recover their investment in APIs.</p>
+<p>With a tool like WaveMaker Studio, creating API-driven web and mobile apps
 
-time consuming or difficult. The Studio is a visual RAD tool that offers you ways to drag-and-drop UI 
+is no longer time consuming or difficult. The WaveMaker Studio is a visual RAD 
 
-components, connect to web services, create database schemas and much more-- without writing any 
+tool that lets you drag-and-drop UI components, connect to web services, create 
 
-code.</p>
+database schemas and much more – all without writing any code.</p>
+
+
 <img src="/images/wavemaker/logo-studio.png">
 <h5>Our Experience with APIs</h5>
-<p>Imaginea has been serving as the engineering arm for the WaveMaker product suite. Building a 
+<p>Imaginea is the engineering arm of the WaveMaker product suite. Building a 
 
-commercial grade API Management Gateway and other related products has given us immense insight 
+commercial grade API Management Gateway and other related products has 
 
-in to different aspect of API building, publishing and consuming.</p>
-<p>WaveMaker, Inc. provides App Enablement Suite (AES), an end-to-end solution for publishing, managing 
+given us immense insight into the different aspects of API building, publishing and 
 
-APIs and uniquely promoting API consumption. WaveMaker improves API consumption by empowering 
+consuming.</p>
+<p>WaveMaker, Inc. provides the App Enablement Suite (AES) as an end-to-end
 
-the large population of user developers, as well as professional developers, to create API apps.</p>
-<p>WaveMaker is a portfolio company of Pramati Technologies. The product DNA in Imaginea has always
+solution for publishing, managing APIs and uniquely promoting API consumption. 
 
-ensured high quality deliverables and very happy customers.</p>
+WaveMaker also improves API consumption by empowering the large population 
+
+of user and professional developers to create their own API apps.</p>
+<p>WaveMaker is a portfolio company of Pramati Technologies. The product DNA in
+
+Imaginea has always ensured high quality deliverables and very happy customers.</p>
 
 @stop
 @section('main-content-right')

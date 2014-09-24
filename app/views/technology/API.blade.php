@@ -14,102 +14,114 @@ services services_eps
 @section('main-content-left') 
 
 
+
 				 
 <h1 class="orange">APIs for Enterprise</h1>
-<h2> The thumping success of APIs in the consumer space has pushed APIs to be part of emerging platforms for the enterprise. </h2>
-<p> 
+<h2>The thumping success of APIs in the consumer space has 
 
-After seeing huge success in API-based development and subsequent growth in social media and 
+pushed them to be a part of emerging platforms for the 
 
-consumer space, in general, enterprises are now keen to replicate that in their business. The new API 
+enterprise.</h2>
+  
+<p> After witnessing the success of API-based development and its growth in social
 
-architecture is transforming the way business is done. APIs are not just an aid to achieve their 
+media and the consumer space, enterprises are now keen on replicating the same 
 
-business goals, they are also core to the business strategy. APIs are opening up newer business channels 
+success in their businesses.</p>
+  <p>The new API architecture is transforming the way enterprises work. APIs are
 
-and speeding up partner
+not just an aid to achieve business goals; they are also at the core of business 
 
-business change.</p>
+strategy. They are opening up new business channels and speeding up change in 
 
-<p>Enterprises are compelled to create newer applications that appeal to different markets and
+partner businesses.</p>
+  <p>Enterprises are compelled to create new applications that appeal to different
 
-customer segments and make them accessible to a variety of user-agents. Visual representation and 
+markets and customer segments. But they also have to ensure that these 
 
-communication of data and information Cloud applications need a standard way to circle back data and 
+applications are accessible to a variety of user-agents. Cloud applications that 
 
-functions within internal systems. Achieving all these is much easier and quicker with APIs.</p>
+provide visual representation of information need a standard way to circle back 
 
-<p>While it is currently trending in enterprises, APIs have always existed. The current day web API 
+data and functions that reside in internal systems. Achieving all this is much easier 
 
-architecture provides a loose coupling and extensive reuse. While this makes development faster, a 
+and quicker with APIs.</p>
+    <p>APIs are a current trend, but they’ve always existed. Today’s web API architecture
 
-note of caution: enterprises do not need APIs that are isolated and are not in line with business needs. 
+provides loose coupling and extensive reuse which speeds up development. But 
 
-Enterprises need a holistic approach to include APIs in their business strategy; more so, to make APIs 
+it also has its drawbacks: enterprises do not need APIs that are isolated and not 
 
-their business.
-</p>
+in line with their business needs. What they do need is a holistic approach to 
 
+include APIs in their business strategies and more importantly, to make APIs their 
 
+business.</p>
+    <h5>Building good APIs</h5>
+    <p>Badly designed APIs are messy and can prove to be more expensive than they are 
 
-<h5>Building good APIs</h5>
-<p>Badly designed APIs can create mess and can prove to be more expensive than its worth. Key 
+worth. Good APIs on the other hand, are marked by key design features that are 
 
-design features mark good APIs. Strong API architecture and design is critical to ensure the right 
+implemented through a strong API architecture and design.</p>
+  <img src="/images/api-design.png" style="margin:0 auto;margin-bottom:40px;display:block">
+    <p>With a good understanding of enterprise API strategies, best practices and 
 
-implementation of these key features.</p>
-<img src="/images/api-design.png" style="margin:0 auto;margin-bottom:40px;display:block">
+sufficient integration expertise, your business can create robust API designs too.</p>
+    <h5>Why is engineering critical for APIs?</h5>
+    <p>If APIs are all about interfaces and integration, do they require engineering? 
 
-<p>With good understanding of the enterprises’ API strategy, use of best practices, sufficient integration 
-
-expertise, your business can serve a as a good base for creating a robust API design.</p>
-
-<h5>Why engineering is critical for APIs?</h5>
-<p>Often asked: if APIs are about interface and integration, is engineering critical for APIs? Absolutely!
-
-Strong engineering and development minds are needed for:</p>
-
+Absolutely! Strong engineering and development skills help:</p>
+  
 <dl>
 	
 	<dd>
 		<ul class="dotted">
-<li>Creating a sustainable low level design for APIs that can reduce the actual development time</li>
+<li>Create a sustainable, low-level API design that can reduce the actual
 
-<li>Evaluating and choosing a perfect implementation technology stack</li>
+development time</li>
 
-<li>Optimizing and performing APIs</li>
+<li>Evaluate and choose a perfect implementation technology stack</li>
 
-<li>Automating tests for the APIs</li>
+<li>Optimize and implement APIs</li>
+
+<li>Automate tests for APIs</li>
 </ul>
 	</dd>
 </dl>
+    <p>Only good engineering can ensure great developer experience. And APIs are all 
 
-<p>Only good engineering can ensure a good developer experience. APIs are all about Developer Experience 
-
-(DX).</p>
+about Developer Experience (DX).</p>
   <img src="/images/api-lifecycle.png" style="margin:0 auto; display:block;">
-<h5>Do APIs need management?</h5>
+  <h5>Do APIs need management?</h5>
+    <p>Some level of management is required to avoid confusion and chaos. These
 
-<p>Some level of management is required to avoid chaos. The relevance of APIs to core business 
+management needs are largely driven by the relevance of the APIs to the business 
 
-and existing IT landscape largely drives management needs. For instance, new APIs that 
+core and the existing IT landscape.</p>
+    <p>For instance, new APIs may require authentication and authorization logic for 
 
-need security need authentication and authorization logic, which might already exist in the enterprise 
+security, but this might already exist in the enterprise IAM. So in this case, there is 
 
-IAM. This is an obvious need to integrate with the enterprise IAM. There can be another set of APIs that 
+an obvious need for integration with the enterprise IAM.</p>
+    <p>Another set of APIs may need access limitation policies. While this can be 
 
-need some access limitation policies. While these can probably be managed from an API publishing 
+managed from an API publishing application, it is better to solve the problem in a 
 
-application, these are wide concerns and better solved in a standard way.</p>
+more standard way to avoid other concerns.</p>
+    <p>Imaginea is partnering with best-of-breed API products in the market so its 
 
-<p>Imaginea is partnering best of breed API products in the market so that its customers can realize the full 
+customers can realize the full potential of new architectures.</p>
+  <p>We partner with WaveMaker to help handle all the general concerns that come
 
-potential of new architectures. </p>
+along with APIs.</p>
+  
     <div class="shaded" style="overflow:auto">
 
 <a href="/services/Partnerships" style="margin:5px 0px 0px 15px" class="flt-left"><img src="/images/wavemaker/logo.png"></a><p style="margin:10px 0px 0px 20px" class="flt-left">We partner with Wavemaker which helps in handling all the general concerns that comes along with APIs.<a style="color: #ff772d;cursor: pointer;display: block;font-size: 15px;font-style:italic;" href="/services/Partnerships"> Read More </a> </p>
     
   </div>
+
+
 
 
 
