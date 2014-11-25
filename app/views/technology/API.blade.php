@@ -111,13 +111,11 @@ more standard way to avoid other concerns.</p>
     <p>Imaginea is partnering with best-of-breed API products in the market so its 
 
 customers can realize the full potential of new architectures.</p>
-  <p>We partner with WaveMaker to help handle all the general concerns that come
 
-along with APIs.</p>
   
     <div class="shaded" style="overflow:auto">
 
-<a href="/services/Partnerships" style="margin:5px 0px 0px 15px" class="flt-left"><img src="/images/wavemaker/logo.png"></a><p style="margin:10px 0px 0px 20px" class="flt-left">We partner with Wavemaker which helps in handling all the general concerns that comes along with APIs.<a style="color: #ff772d;cursor: pointer;display: block;font-size: 15px;font-style:italic;" href="/services/Partnerships"> Read More </a> </p>
+<a href="/services/Partnerships" style="margin:5px 0px 0px 15px" class="flt-left"><img src="/images/wavemaker/logo.png"></a><p style="margin:10px 0px 0px 20px" class="flt-left">We partner with WaveMaker to help handle all the general concerns that come along with APIs.<a style="color: #ff772d;cursor: pointer;display: block;font-size: 15px;font-style:italic;" href="/services/Partnerships"> Read More </a> </p>
     
   </div>
 

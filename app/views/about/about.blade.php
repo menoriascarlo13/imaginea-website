@@ -52,11 +52,11 @@
 		</p>
 		<div class="img-block">
 			<div class="flt-left socialtwist-logo">
-				<img class="socialtwist-logo-img" style="width:190px;" src="/images/socialtwist-logo.jpg">
+				<img class="socialtwist-logo-img" style="width:190px;" src="/images/socialtwist-logo.jpg" alt="Social Twist">
 				<p class="st-text"> SocialTwist, a social marketing platform conceived, developed and brought to market by our Engineering team. </p>
 			</div>
 			<div class="qontext-logo flt-left">
-				<img class=" qontext-logo-img "style="width:150px;" src="/images/qontext-logo.png">
+				<img class=" qontext-logo-img "style="width:150px;" src="/images/qontext-logo.png" alt="Qontext">
 				<p class="q-text clr ">An enterprise social collaboration platform, acquired by Autodesk in 2012. </p>
 			</div>
 		</div>

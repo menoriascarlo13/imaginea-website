@@ -17,7 +17,7 @@
 		<p>
 			This white paper discusses several aspects of Android application development.
 
-			The Android software stack is discussed along with a description of the Android Development Tools (ADT). The Android package file (APK) and the four types of application components - Activities, Services, Broadcast Receivers, and Content Providers - are also explained. <a  target="_blank" style="float: right; display: block;margin: 20px;border:1px solid #ccc;" href="/images/resources/white-papers/white paper 1.pdf"><img src="/images/resources/white-papers/whitepaper-android.png" /> </a>
+			The Android software stack is discussed along with a description of the Android Development Tools (ADT). The Android package file (APK) and the four types of application components - Activities, Services, Broadcast Receivers, and Content Providers - are also explained. <a  target="_blank" style="float: right; display: block;margin: 20px;border:1px solid #ccc;" href="/images/resources/white-papers/white paper 1.pdf"><img src="/images/resources/white-papers/whitepaper-android.png" alt="Imaginea white paper - Building Android applications"/> </a>
 			As with any development platform, a set of best practices can help you avoid pitfalls and derive maximum advantage.</p>
 			<p> We discuss ten such best practices, like sharing common functionality and adapting layouts for multiple devices. You can assess Android's strengths and weaknesses through our comparisons with other mobile platforms, notably iOS and BlackBerry.</p>
 			<p>

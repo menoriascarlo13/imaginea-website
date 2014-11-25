@@ -12,12 +12,12 @@
 	@section('main-content-left')
 		<h1>Social Analytics With Hadoop</h1>
 		<h2>Millions of people on the Internet leave terabytes of digital footprints. Connecting up all this information to draw the bigger picture is critical to social media, eCommerce and other other companies. But how do you analyze such vast and unstructured data to extract actionable insight? </h2>
-		<p>	SocialTwist came to us with a similar question. We answered it using Hadoop MapReduce — a software framework for writing applications that <a  target="_blank" style="float: right; display: block;margin: 20px;border:1px solid #ccc;" href="/images/resources/case-studies/case-study.pdf"><img src="/images/resources/case-studies/case-study-hadoop.png" /> </a>process terabytes of data in parallel on large clusters of commodity hardware, in a reliable and fault-tolerant manner.</p><p>
+		<p>	SocialTwist came to us with a similar question. We answered it using Hadoop MapReduce — a software framework for writing applications that <a  target="_blank" style="float: right; display: block;margin: 20px;border:1px solid #ccc;" href="/images/resources/case-studies/case-study.pdf"><img src="/images/resources/case-studies/case-study-hadoop.png" alt="Imaginea case study - Social analytics with Hadoop"/> </a>process terabytes of data in parallel on large clusters of commodity hardware, in a reliable and fault-tolerant manner.</p><p>
 			SocialTwist's marketing platform uses their Tell-A-Friend referral widget that serves billions of impressions, while generating key information in web activity logs. They needed a solution that would analyze and report campaign performance, but remain easy to develop and implement over their existing infrastructure.
 		</p>
 		<p>	
 	We applied Hadoop MapReduce and were able to analyze terabytes of web activity logs in a tenth of prior processing time. To convey the bigger picture out of these crumbs of information, we built a front-end using Ruby on Rails. 
-		 <img style="margin:0 auto; margin-top:40px;margin-bottom: 40px;width:570px;" src="/images/cs-hastaf.png"> 
+		 <img style="margin:0 auto; margin-top:40px;margin-bottom: 40px;width:570px;" src="/images/cs-hastaf.png" alt="Hadoop MapReduce front-end"> 
 	This provided detailed information on the underlying tasks and data in the database and also served as a dashboard for vital marketing metrics, like top sites and top users. SocialTwist can now report consumer behavior and campaign performance information more quickly and effectively to their clients.
 		</p>
 				
