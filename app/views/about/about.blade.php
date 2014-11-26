@@ -1,7 +1,12 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="Learn how Imaginea drives the innovation process by taking on every step from consulting and ideation to product development and implementation." />
+		<meta name="keywords" content="about imaginea, how imaginea works" />
+	@stop
 	@section('page-title')
-		Imaginea About
+		About Imaginea
 	@stop
 	@section('body-tag')
 		about about_landing

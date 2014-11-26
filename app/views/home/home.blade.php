@@ -1,7 +1,12 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="A technology service provider at its core, Imaginea drives innovation in global businesses with consulting, product lifecycle and technology solutions."/>
+		<meta name="keywords" content="Imaginea, Imaginea Technologies, engineering services, business strategy consulting, product development lifecycle, big data, cloud services, mobile application development, social technologies" />
+	@stop
 	@section('page-title')
-		Imaginea Home
+		Imaginea - Business Consulting | Technology Services | Product Development Strategy
 	@stop
 	@section('body-tag')
 		landing
