@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="Read about the people behind Imaginea and how they contribute to innovation, growth and a rewarding company culture." />
+		<meta name="keywords" content="Imaginea team, meet the team" />
+	@stop
+
 	@section('page-title')
-		Imaginea About
+		The Imaginea Team 
 	@stop
 	@section('body-tag')
 		about about_team

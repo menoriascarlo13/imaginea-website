@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="We have the critical technology expertise and the infrastructure to develop your products quickly and cost-effectively." />
+		<meta name="keywords" content="technology expertise, product development lifecycle, product development" />
+	@stop
+
 @section('page-title')
-Imaginea Services
+Imaginea Services - Full Scale Product Development
 @stop
 @section('body-tag')
 services services_pls

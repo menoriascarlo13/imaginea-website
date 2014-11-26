@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="Objectively evaluate and select the best platform for your requirements with Imaginea's emerging platform solutions." />
+		<meta name="keywords" content="emerging platform solutions, cloud platform, social platform, mobile platform, technology evaluation" />
+	@stop
+
 @section('page-title')
-Imaginea Services
+ Imaginea Services- Evaluating and Choosing Emerging Platform Solutions
 @stop
 @section('body-tag')
 services services_eps

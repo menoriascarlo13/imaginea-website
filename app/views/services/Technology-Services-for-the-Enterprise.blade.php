@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="Imaginea helps enterprises migrate to newer technologies seamlessly by maintaining current legacy systems until the transition is complete." />
+		<meta name="keywords" content="software maintenance, enterprise support, legacy system migration" />
+	@stop
+
 @section('page-title')
-Imaginea Services
+Imaginea Services - Software Maintenance, Enterprise Support and Migration
 @stop
 @section('body-tag')
 services services_tse

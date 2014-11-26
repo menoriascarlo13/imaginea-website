@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+  @section('metas')
+    
+    <meta name="description" content="Imaginea is working with the best technology providers in the market to help plan, architect, build, deploy and manage enterprise APIs." />
+    <meta name="keywords" content="Wavemaker, api development, app development, web service integration, api architecture, api management" />
+  @stop
+
 @section('page-title')
-Imaginea Technology
+Imaginea & Wavemaker - APIs for Enterprise
 @stop
 @section('body-tag')
 services services_eps 
@@ -46,7 +52,7 @@ provide visual representation of information need a standard way to circle back
 data and functions that reside in internal systems. Achieving all this is much easier 
 
 and quicker with APIs.</p>
-    <p>APIs are a current trend, but they’ve always existed. Today’s web API architecture
+    <p>APIs are a current trend, but they've always existed. Today's web API architecture
 
 provides loose coupling and extensive reuse which speeds up development. But 
 

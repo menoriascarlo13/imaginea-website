@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="Find information about where the Imaginea offices are located." />
+		<meta name="keywords" content="Imaginea offices, Imaginea locations" />
+	@stop
+
 	@section('page-title')
-		Imaginea Locations
+		 Imaginea Office Locations
 	@stop
 	@section('body-tag')
 		contactUs cu_locations

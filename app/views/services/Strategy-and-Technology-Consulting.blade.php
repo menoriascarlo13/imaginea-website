@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content=" Imaginea's technology consulting services provide answers to real customer problems and actively help implement complex strategies." />
+		<meta name="keywords" content="technology consulting services, legacy migration, enterprise consulting, business strategy " />
+	@stop
+
 @section('page-title')
-Imaginea Services
+Imaginea Services- Business Strategy, Technology Consulting
 @stop
 @section('body-tag')
 services services_stc
@@ -20,7 +26,7 @@ services services_stc
 		new system which allows them to add new branch offices quickly and easily while
 		their existing branches are using the new flexible reporting program to respond
 		more quickly to changing market conditions. This solution is emblematic of
-		Imaginea’s commitment to transforming business challenges into value-added
+		Imaginea's commitment to transforming business challenges into value-added
 		solutions.
 	</p>
 	<i class="read-more-toggle" > Read More </i>

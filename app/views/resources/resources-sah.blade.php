@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="Access Imaginea's online resources like case studies and white papers." />
+		<meta name="keywords" content="Imaginea case studies, Imaginea white papers, Imaginea resources, hadoop, apache hadoop" />
+	@stop
+
 	@section('page-title')
-		Imaginea Resources
+		Imaginea Case Study - Social Analytics with Hadoop
 	@stop
 	@section('body-tag')
 		resources resources_sah

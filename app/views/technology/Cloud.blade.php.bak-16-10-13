@@ -15,7 +15,7 @@
 		@section('main-content-left')
 		<h1 class="orange">Cloud Technologies</h1>
 		<h2>
-			What are your biggest concerns about the cloud? Here are some problems we’ve
+			What are your biggest concerns about the cloud? Here are some problems we've
 solved for our customers:
 		</h2>
 		<p >
@@ -73,7 +73,7 @@ sure that a cloud deployment will meet our stringent requirements?
 			<dd>
 				<ul class="dotted">
 			<li>
-				What’s the right architecture for our cloud offering?
+				What's the right architecture for our cloud offering?
 			</li>
 			<li>
 				Can you build this new platform for us?

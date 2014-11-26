@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="Bridge the gap between your concept and full-scale development with a product prototype that can help you gain both investors and engaged customers. " />
+		<meta name="keywords" content="product prototype, prototype development, proof of concept, minimum viable product" />
+	@stop
+
 @section('page-title')
-		Imaginea Services
+		Imaginea Services-Product Prototyping, Product Management
 @stop
 @section('body-tag')
 		services services_ipm

@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="Define, select, develop, and integrate social platforms with your application with Imaginea's social technology solutions. " />
+		<meta name="keywords" content=" social platforms, social technologies, enterprise social software, social integration, social analytics, social campaigns" />
+	@stop
+
 @section('page-title')
-Imaginea Technology
+ Imaginea Technologies- Social Media Applications
 @stop
 @section('body-tag')
 technology technology_soc
@@ -12,7 +18,7 @@ technology technology_soc
 </p>
 @stop
 @section('main-content-left') <h1 class="orange">Social Technologies </h1>
-<h2> Thinking about social media application strategy but unsure where to start? We’ve
+<h2> Thinking about social media application strategy but unsure where to start? We've
 helped clients throughout the process: </h2>
 <dl>
 	<dt>
@@ -57,7 +63,7 @@ helped clients throughout the process: </h2>
 	<dd>
 		<ul class="dotted">
 			<li>
-				My team isn’t set up for this kind of project. Can you help?
+				My team isn't set up for this kind of project. Can you help?
 			</li>
 		</ul>
 	</dd>

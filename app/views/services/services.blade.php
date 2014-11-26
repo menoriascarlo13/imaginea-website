@@ -1,5 +1,11 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="Imaginea has a full suite of comprehensive business technology services that take care of everything from ideation to migration and maintenance. " />
+		<meta name="keywords" content="Enterprise consulting, technology consulting services, engineering services, prototype development, product development lifecycle, Imaginea services" />
+	@stop
+
 @section('page-title')
 		Imaginea Services
 @stop

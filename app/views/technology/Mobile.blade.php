@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="Future-proof your business with Imaginea's mobile app development, mobile integration and enterprise mobility solutions. " />
+		<meta name="keywords" content="Mobile app development, mobile application development, mobile integration, enterprise mobility solutions" />
+	@stop
+
 @section('page-title')
-Imaginea Technology
+ Imaginea Technologies- Mobile Application Development, Enterprise Mobility Solutions
 @stop
 @section('body-tag')
 technology technology_mob

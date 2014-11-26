@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="If you have any queries about Imaginea's services and solutions, please get in touch with us." />
+		<meta name="keywords" content=" Imaginea, contact Imaginea, Imaginea Technologies" />
+	@stop
+
 	@section('page-title')
-		Imaginea Contact Us
+		Contact Imaginea 
 	@stop
 	@section('body-tag')
 		contactUs cu_contactForm

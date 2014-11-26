@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="Imaginea is partnering with Wavemaker so our customers can realize the full potential of new API architectures." />
+		<meta name="keywords" content="Wavemaker, api development, web service integration, wavemaker enterprise, api architecture, api management" />
+	@stop
+
 @section('page-title')
-Imaginea Technology
+ Imaginea Partnerships
 @stop
 @section('body-tag')
 services services_eps
@@ -49,7 +55,7 @@ mandatory to get one to venture into APIs. Nevertheless, even the simplest
 API implementation will need some way to make the API discoverable, 
 
 understandable, and at least minimally secure.</p>
-<p>Get started with WaveMaker Gateway Lite, and you won’t have to worry about
+<p>Get started with WaveMaker Gateway Lite, and you won't have to worry about
 
 getting a commercial API Management tool even before you are sure about your 
 
@@ -68,7 +74,7 @@ is no longer time consuming or difficult. The WaveMaker Studio is a visual RAD
 
 tool that lets you drag-and-drop UI components, connect to web services, create 
 
-database schemas and much more – all without writing any code.</p>
+database schemas and much more - all without writing any code.</p>
 
 
 <img src="/images/wavemaker/logo-studio.png">

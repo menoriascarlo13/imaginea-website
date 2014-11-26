@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="Learn more about careers and job opportunities at Imaginea." />
+		<meta name="keywords" content="careers, careers in Chennai, careers in Hyderabad, careers in California, Mountain View job opportunities, Fairfax job opportunities" />
+	@stop
+
 @section('page-title')
-Imaginea About
+Careers at Imaginea
 @stop
 @section('body-tag')
 about about_careers

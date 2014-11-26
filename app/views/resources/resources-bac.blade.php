@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="This downloadable white paper delves into the issues facing cloud application development and explores alternative technologies." />
+		<meta name="keywords" content="Imaginea white papers, building cloud applications" />
+	@stop
+
 @section('page-title')
-	Imaginea Resources
+	Imaginea White Paper - Building Applications for the Cloud
 @stop
 @section('body-tag')
 	resources resources_bac

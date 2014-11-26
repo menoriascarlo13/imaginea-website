@@ -46,9 +46,9 @@
 						</li>	
 						<li id="ov-02-cont">
 								<h5>Try it before you commit</h5>
-								<p>Not sure how it will work, don’t worry our hands on POC-Labs and technical staff can always will help you simulate and cloud setup, applications on private really fast and quickly.
-</p><p>It’s a ‘no charge free service’ designed for your help to look at the Cloud functionality and application services. 
-</p><p>This is the fastest and most efficient path to ‘Your Cloud.’ </p>							
+								<p>Not sure how it will work, don't worry our hands on POC-Labs and technical staff can always will help you simulate and cloud setup, applications on private really fast and quickly.
+</p><p>It's a ‘no charge free service' designed for your help to look at the Cloud functionality and application services. 
+</p><p>This is the fastest and most efficient path to ‘Your Cloud.' </p>							
 						</li>	
 					</ul>
 					
@@ -113,7 +113,7 @@
 						</li>
 						<li id="so-04-cont">
 							<p>Move production workloads to the cloud—with confidence. We manage your IT cloud assets and reduce the operational cost.
-We offer services to watch your cloud assets around the clock. Our dedicated 24x7 support team provides constant monitoring of your applications and environment. When things go wrong at 2am on a Sunday, it’s good to have a partner to fix problems and return systems to a healthy state.
+We offer services to watch your cloud assets around the clock. Our dedicated 24x7 support team provides constant monitoring of your applications and environment. When things go wrong at 2am on a Sunday, it's good to have a partner to fix problems and return systems to a healthy state.
 </p>
 						</li>
 					</ul>					
@@ -140,7 +140,7 @@ We offer services to watch your cloud assets around the clock. Our dedicated 24x
 
 	 	<!--
 	<h2>
-		What are your biggest concerns about the cloud? Here are some problems we’ve
+		What are your biggest concerns about the cloud? Here are some problems we've
 	solved for our customers:
 	</h2>
 	<p >
@@ -198,7 +198,7 @@ We offer services to watch your cloud assets around the clock. Our dedicated 24x
 		<dd>
 			<ul class="dotted">
 		<li>
-			What’s the right architecture for our cloud offering?
+			What's the right architecture for our cloud offering?
 		</li>
 		<li>
 			Can you build this new platform for us?

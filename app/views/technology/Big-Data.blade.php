@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="We can improve your product distribution strategy by helping you develop a big data application, drive enterprise analytics and integrate your applications. " />
+		<meta name="keywords" content="big data solutions, big data management, big data application, big data integration" />
+	@stop
+
 @section('page-title')
-Imaginea Technology
+Imaginea Technologies- Big Data Solutions
 @stop
 @section('body-tag')
 technology technology_bd
@@ -78,7 +84,7 @@ business? </h2>
 			</li>
 			<li>
 				I need a team that knows how to integrate all this with custom tools
-				we’ve built over the years.
+				we've built over the years.
 			</li>
 		</ul>
 	</dd>

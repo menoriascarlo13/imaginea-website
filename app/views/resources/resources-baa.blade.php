@@ -1,7 +1,13 @@
 @extends('templates.default.default')
 
+	@section('metas')
+		
+		<meta name="description" content="This downloadable white paper discusses several aspects of Android application development and includes best practices to avoid common pitfalls." />
+		<meta name="keywords" content="Imaginea white papers, building Android applications, Android development" />
+	@stop
+
 	@section('page-title')
-		Imaginea Resources
+		Imaginea White Paper - Building Android Applications
 	@stop
 	@section('body-tag')
 		resources resources_baa
