@@ -6,7 +6,7 @@
 		<meta name="keywords" content="Imaginea, Imaginea Technologies, engineering services, business strategy consulting, product development lifecycle, big data, cloud services, mobile application development, social technologies" />
 	@stop
 	@section('page-title')
-		Imaginea - Business Consulting | Technology Services | Product Development Strategy
+		Imaginea - Enterprise Applications | Technology Consulting | Product Development Services
 	@stop
 	@section('body-tag')
 		landing
