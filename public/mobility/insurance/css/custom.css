@@ -1592,7 +1592,6 @@ h4.hlighted{
 	.big-img-box img{
 		display: block;
 		margin: 0 auto;
-		cursor: pointer;
 	}
 	.big-img-box img:hover{
 
