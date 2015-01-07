@@ -281,17 +281,20 @@ body>section,.divider-gap{
 .top-header ul.sub-nav li.selected a {
 	color: #ff9053;
 }
-ul.sub-nav li.sn-cloud a{
-	background: url('../images/tech-sprite.png') no-repeat 10px -211px;
+ul.sub-nav li.sn-cloud a {
+    background: url("../images/tech-sprite-2.png") no-repeat scroll 10px -211px rgba(0, 0, 0, 0);
 }
-ul.sub-nav li.sn-mobile a{
-	background: url('../images/tech-sprite.png') no-repeat 8px -509px;
+ul.sub-nav li.sn-mobile a {
+    background: url("../images/tech-sprite-2.png") no-repeat scroll 8px -509px rgba(0, 0, 0, 0);
 }
-ul.sub-nav li.sn-bigdata a{
-	background: url('../images/tech-sprite.png') no-repeat 10px -358px;
+ul.sub-nav li.sn-bigdata a {
+    background: url("../images/tech-sprite-2.png") no-repeat scroll 10px -358px rgba(0, 0, 0, 0);
 }
-ul.sub-nav li.sn-social a{
-	background: url('../images/tech-sprite.png') no-repeat 10px -59px;
+ul.sub-nav li.sn-social a {
+    background: url("../images/tech-sprite-2.png") no-repeat scroll 10px -59px rgba(0, 0, 0, 0);
+}
+ul.sub-nav li.sn-API a {
+    background: url("../images/tech-sprite-2.png") no-repeat scroll 10px -582px rgba(0, 0, 0, 0);
 }
 .top-header ul.sub-nav-technology li a {
     padding: 25px 10px 25px 40px;
