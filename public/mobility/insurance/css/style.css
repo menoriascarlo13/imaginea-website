@@ -49,7 +49,6 @@ a {
 /*reset ends*/
 
 body>section,.divider-gap{
-	min-width:982px;
 	position: relative;
 }
 .top-gap, .divider-gap, .top-banner, .top-header, .main-content, .footer, .main-strip {
@@ -57,7 +56,6 @@ body>section,.divider-gap{
 	overflow: auto;
 }
 .wrapper {
-	width: 1170px;
 	margin: 0 auto;
 }
 .wrapper-left {

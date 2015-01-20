@@ -891,6 +891,7 @@ letter-spacing: 8px;
 	line-height: 21px;
 	margin-top: 10px;
 	width: 60%;
+	text-shadow: 1px 1px 0 rgba(0, 0, 0, 1);
 }
 .lc-expand p{
 	color: #fff;
@@ -1762,6 +1763,84 @@ h4.hlighted{
 		font-family: 'lato';
 		font-weight: 700;
 		line-height: 20px;
+	}
+
+		/*responsive */
+	.lc-expand h2{
+		width: 100%;
+	}
+	.row{
+		margin: 0px;
+	}
+	.logo-img{
+		position: relative;
+		left: -15px;
+	}
+	.item{
+		height: 800px;
+	}
+	.item-1 img{
+		bottom: 60px;
+		right:60px;
+	}
+	.item-2 img{
+		bottom: 60px;
+		right:60px;
+	}
+	.item-3 img{
+		bottom: 28px;
+		right:0px;
+	}
+	.carousel-inner > .item > img, .carousel-inner > .item > a > img{
+		max-width: 50%;
+	}
+	.carousel-inner > .item-3 > img, .carousel-inner > .item-3 > a > img{
+		max-width:100%;
+	}
+
+	.carousel-caption{
+		left: 15px;
+	}
+	.link-title{
+		max-width: 333px;
+	}
+	.ci-box{
+		padding-bottom: 20px;
+	}
+	.nav-tabs > li > a{
+		padding: 20px;
+	}
+	.footer{
+		display: none;
+	}
+	@media screen and (min-width: 1200px){
+		.lc-expand h2{
+			width: 60%;
+		}
+		.item{
+			height: 400px;
+		} 
+		.carousel-inner > .item > img, .carousel-inner > .item > a > img{
+			max-width: 100%;
+		}
+		.item-1 img{
+			top: 60px;
+			right:60px;
+		}
+		.item-2 img{
+			top: 60px;
+			right:60px;
+		}
+		.item-3 img{
+			bottom: -28px;
+			right:-182px;
+		}
+		.carousel-caption{
+			left: 50px;
+		}
+		.footer{
+			display: block;
+		}
 	}
 	/***************************************************************************************************mediaqueries begin *******************************************/
 	/***************************************************************************************************mediaqueries begin *******************************************/
