@@ -1211,7 +1211,7 @@ ul.ul-address li.last-li {
 	font-family:'DIN Next W01 Light';
 	font-weight: normal;
 }
-.btn-a, a.orange-link,.about_careers .main-content .wrapper-left h4,.about_team .main-content .wrapper-left h3,.top-banner .wrapper-right h1, .carousel-a li h3 {
+.btn-a, .about_careers .main-content .wrapper-left h4,.about_team .main-content .wrapper-left h3,.top-banner .wrapper-right h1, .carousel-a li h3 {
 	font-family:'DIN Next W01 Bold';
 	font-weight: normal;
 }
