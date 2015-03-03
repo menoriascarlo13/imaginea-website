@@ -1813,6 +1813,17 @@ h4.hlighted{
 	.footer{
 		display: none;
 	}
+	.small-case{
+		text-transform: lowercase;
+	}
+	.orange-link{
+		color: #ff9053 !important;
+		display: inline-block;
+		font-size: 13px;
+		font-weight: bold;
+		text-transform: uppercase;
+		font-family: "Open Sans",​sans-serif;
+	}
 	@media screen and (min-width: 1200px){
 		.lc-expand h2{
 			width: 60%;
